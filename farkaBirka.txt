@@ -1,6 +1,1 @@
-birka
-birka
-nyuszi
-macska
-kutya
-malac
+kisHuncut
